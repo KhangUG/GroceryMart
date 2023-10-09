@@ -93,8 +93,8 @@
 
     &__item:hover > &__link,
     &__item--active > &__link {
-        color: #0071dc;
-        font-weight: 500;
+            color: #0071dc;
+            font-weight: 500;
     }
 
     &__link {
@@ -106,6 +106,7 @@
 }
 
 .sub-menu {
+
     position: absolute;
     inset: 0 0 0 var(--main-column-width);
 
